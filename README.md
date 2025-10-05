@@ -1,1 +1,1 @@
-# This is about learning Git complete course!
+# Now read me!
